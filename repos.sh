@@ -7,7 +7,7 @@ PAGE=1
 while : ; do
     RESPONSE=$(curl -H "Authorization: token $GITHUB_TOKEN" \
                     -H "Accept: application/vnd.github.v3+json" \
-                      "https://api.github.com/search/repositories?q=stars:>100&sort=stars&order=desc&per_page=100&page=$PAGE")
+                      "https://api.github.com/search/repositories?sort=stars&order=desc&per_page=100&page=$PAGE")
     
     COUNT=$(echo "$RESPONSE" | jq '.items | length')
     if [[ "$COUNT" -eq 0 ]]; then
