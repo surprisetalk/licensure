@@ -4,7 +4,7 @@ GITHUB_TOKEN="$1"
 
 while read REPO; do
 
-  sleep 2
+  sleep 10
 
   LICENSE=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
                     -H "Accept: application/vnd.github.v3+json" \
