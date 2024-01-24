@@ -2,7 +2,7 @@ This repo records changes to software licenses.
 
 To use these scripts, create a personal dev token in your GitHub settings.
 
-This script adds recently updated repos (>1000) to `repos.txt`:
+This script adds recently updated repos (>1000 stars) to `repos.txt`:
 
 ```bash
 ./repos.sh $GITHUB_TOKEN
