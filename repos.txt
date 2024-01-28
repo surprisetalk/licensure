@@ -8286,3 +8286,9 @@ ransome1/sleek
 bootstrap-ruby/bootstrap_form
 udecode/plate
 docusealco/docuseal
+peers/peerjs-server
+leptonai/search_with_lepton
+gracenolan/Notes
+kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1
+iPlug2/iPlug2
+mitsuhiko/rye
