@@ -8,8 +8,7 @@ This script adds recently updated repos (>1000 stars) to `repos.txt`:
 ./repos.sh $GITHUB_TOKEN
 ```
 
-This script samples `repos.txt` and adds the license commit history to
-`commits.csv`:
+This script samples `repos.txt` and adds the license commit history to `commits.csv`:
 
 ```bash
 ./commits.sh $GITHUB_TOKEN
@@ -19,11 +18,11 @@ View the latest license changes like so:
 
 ```bash
 curl -s 'https://raw.githubusercontent.com/surprisetalk/licensure/main/commits.csv' \
-  | sort -r | head
+  | sort -r | head \
+  | awk -F, '{print $1 ": https://github.com/" $2 "/commit/" $3}'
 ```
 
-View the license commits on GitHub at `https://github.com/$REPO/commit/$COMMIT`
-or via API:
+View the license commits on GitHub at `https://github.com/$REPO/commit/$COMMIT` or via API:
 
 ```bash
 curl -H "Accept: application/vnd.github+json" \
