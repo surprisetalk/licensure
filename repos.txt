@@ -10754,3 +10754,14 @@ GoogleCloudPlatform/nodejs-docs-samples
 mhx/dwarfs
 MinecraftForge/MinecraftForge
 pulumi/examples
+vaastav/Fantasy-Premier-League
+Quick/Quick
+aistra0528/Hail
+softwaremill/sttp
+soybeanjs/soybean-admin
+dotansimha/graphql-code-generator
+PHPCompatibility/PHPCompatibility
+kentcdodds/react-performance
+Ulauncher/Ulauncher
+qarmin/czkawka
+TheAlgorithms/C-Sharp
