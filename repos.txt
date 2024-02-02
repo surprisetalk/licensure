@@ -10765,3 +10765,16 @@ kentcdodds/react-performance
 Ulauncher/Ulauncher
 qarmin/czkawka
 TheAlgorithms/C-Sharp
+mongodb/mongoid
+jagenjo/litegraph.js
+insidegui/VirtualBuddy
+simonbengtsson/jsPDF-AutoTable
+paulmillr/chokidar
+SanderMertens/ecs-faq
+smarty-php/smarty
+sksamuel/elastic4s
+mojs/mojs
+ash-jc-allen/short-url
+apache/openwhisk
+toptal/gitignore
+manisandro/gImageReader
