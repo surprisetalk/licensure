@@ -10470,3 +10470,14 @@ melonjs/melonJS
 scipy-lectures/scientific-python-lectures
 andymass/vim-matchup
 operator-framework/operator-sdk
+tair-opensource/RedisShake
+stack-of-tasks/pinocchio
+ashishps1/awesome-behavioral-interviews
+ring-clojure/ring
+vercel/style-guide
+darklife/darkriscv
+int128/kubelogin
+kevwan/go-stash
+x-motemen/ghq
+HXSecurity/DongTai
+markyun/markyun
