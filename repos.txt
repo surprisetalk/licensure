@@ -10803,3 +10803,16 @@ jquery/jquery-ui
 ServiceWeaver/weaver
 terralang/terra
 ErikMcClure/bad-licenses
+laravel-shift/blueprint
+phiresky/ripgrep-all
+mon5termatt/medicat_installer
+reactiveui/Akavache
+scenee/FloatingPanel
+qmk/qmk_toolbox
+EdOverflow/can-i-take-over-xyz
+kanboard/kanboard
+wuhgit/CustomPinyinDictionary
+all-in-aigc/aicover
+sarah-ek/faer-rs
+jarun/buku
+zju3dv/LoFTR
