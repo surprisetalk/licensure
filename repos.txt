@@ -10863,3 +10863,17 @@ qd-today/qd
 izhangzhihao/intellij-rainbow-brackets
 jiangtian616/JHenTai
 cassidoo/todometer
+201206030/novel-plus
+hsluv/hsluv
+bcgit/bc-java
+bcgit/bc-csharp
+lixin4ever/Conference-Acceptance-Rate
+friuns2/BlackFriday-GPTs-Prompts
+jmbannon/ytdl-sub
+github/india
+AmazingAng/WTF-Solidity
+go-training/training
+EmNudge/watlings
+evhub/coconut
+SebLague/Solar-System
+AbdBarho/stable-diffusion-webui-docker
