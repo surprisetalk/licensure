@@ -10816,3 +10816,16 @@ all-in-aigc/aicover
 sarah-ek/faer-rs
 jarun/buku
 zju3dv/LoFTR
+Shaunwei/RealChar
+jquery/jquery-migrate
+pt-plugins/PT-Plugin-Plus
+pikasTech/PikaPython
+winstonjs/winston
+ventali/awesome-zk
+LSPosed/MagiskOnWSALocal
+bchavez/Bogus
+LykosAI/StabilityMatrix
+appleboy/gin-jwt
+hugo53/awesome-RemoteWork
+gpodder/gpodder
+danger/danger
