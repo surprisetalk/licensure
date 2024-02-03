@@ -11099,3 +11099,12 @@ xlucn/oh-my-foss-android
 getgrav/grav
 nexxtway/react-rainbow
 asciinema/asciinema-server
+google/flatbuffers
+yandexdataschool/nlp_course
+google-ar/arcore-android-sdk
+lucidrains/denoising-diffusion-pytorch
+libgdx/libgdx
+UncleRus/esp-idf-lib
+mahmoud/boltons
+plantuml-stdlib/C4-PlantUML
+john-rocky/CoreML-Models
