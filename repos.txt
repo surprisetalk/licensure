@@ -10792,3 +10792,14 @@ apple/swift-system
 bwmarrin/discordgo
 golang/net
 Netflix/hollow
+stevearc/aerial.nvim
+facebook/memlab
+nfs-ganesha/nfs-ganesha
+wix/react-native-navigation
+GeostatsGuy/PythonNumericalDemos
+alefragnani/vscode-project-manager
+tiangolo/sqlmodel
+jquery/jquery-ui
+ServiceWeaver/weaver
+terralang/terra
+ErikMcClure/bad-licenses
