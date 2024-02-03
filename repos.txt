@@ -10852,3 +10852,14 @@ Dewalt-arch/pimpmykali
 moment/moment-timezone
 stm32-rs/stm32-rs
 cabaletta/baritone
+semver/semver
+fede1024/rust-rdkafka
+wangdoc/javascript-tutorial
+mpvnet-player/mpv.net
+kangvcar/InfoSpider
+WindrunnerMax/EveryDay
+nteract/hydrogen
+qd-today/qd
+izhangzhihao/intellij-rainbow-brackets
+jiangtian616/JHenTai
+cassidoo/todometer
