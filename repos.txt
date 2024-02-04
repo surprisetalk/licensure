@@ -11304,3 +11304,17 @@ coleifer/sqlite-web
 GyanD/codexffmpeg
 shlinkio/shlink
 eBay/nice-modal-react
+TypeScriptToLua/TypeScriptToLua
+Dav1dde/glad
+Codeception/Codeception
+rocktimsaikia/animechan
+TooTallNate/Java-WebSocket
+erebe/personal-server
+ant-media/Ant-Media-Server
+networked-aframe/networked-aframe
+jackhawks/rectg
+AndrewRadev/splitjoin.vim
+jupyter-lsp/jupyterlab-lsp
+CastagnaIT/plugin.video.netflix
+calebporzio/sushi
+buttercup/buttercup-desktop
