@@ -11152,3 +11152,14 @@ wmjordan/PDFPatcher
 CTCaer/hekate
 gnea/grbl
 kazupon/vue-i18n
+spiffe/spiffe
+SeaDve/Kooha
+luxiaoxun/NettyRpc
+ddworken/hishtory
+kevwan/tproxy
+dtolnay/rust-quiz
+chao325/MaoTai_GUIT
+Tencent/tdesign-miniprogram
+2dust/clashN
+R2Northstar/Northstar
+ahonn/hexo-theme-even
