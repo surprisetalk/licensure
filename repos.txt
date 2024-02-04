@@ -11404,3 +11404,16 @@ ivanhofer/typesafe-i18n
 eko/monday
 rsta2/circle
 LordNoteworthy/al-khaser
+langchain-ai/langgraph
+divelab/DIG
+hybridgroup/gobot
+jncraton/languagemodels
+rust-embedded/embedded-hal
+pk910/PoWFaucet
+yacy/yacy_search_server
+AkariAsai/self-rag
+tpope/vim-eunuch
+WayfireWM/wayfire
+AnalogJ/scrutiny
+sparckles/Robyn
+mhinz/vim-grepper
