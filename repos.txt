@@ -11144,3 +11144,11 @@ manuelernestog/weektodo
 dj-stripe/dj-stripe
 BluePointLilac/ContextMenuManager
 kriasoft/graphql-starter-kit
+software-mansion/react-native-svg
+Mooophy/Cpp-Primer
+prettier/prettier-eslint
+aldostools/webMAN-MOD
+wmjordan/PDFPatcher
+CTCaer/hekate
+gnea/grbl
+kazupon/vue-i18n
