@@ -11417,3 +11417,11 @@ WayfireWM/wayfire
 AnalogJ/scrutiny
 sparckles/Robyn
 mhinz/vim-grepper
+JodaOrg/joda-time
+getzola/zola
+KohakuBlueleaf/LyCORIS
+jivoi/awesome-osint
+dbcli/pgcli
+pydantic/FastUI
+xmolecules/jmolecules
+swyxio/spark-joy
