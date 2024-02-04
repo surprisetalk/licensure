@@ -11137,3 +11137,10 @@ vintasoftware/django-react-boilerplate
 themesberg/flowbite-svelte
 Konloch/bytecode-viewer
 Joshua-Ashton/VPhysics-Jolt
+louthy/language-ext
+AutoHotkey/AutoHotkey
+bmoscon/cryptofeed
+manuelernestog/weektodo
+dj-stripe/dj-stripe
+BluePointLilac/ContextMenuManager
+kriasoft/graphql-starter-kit
