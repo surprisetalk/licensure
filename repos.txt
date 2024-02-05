@@ -11443,3 +11443,12 @@ bblimke/webmock
 ankane/pghero
 jest-community/vscode-jest
 MaximeBeasse/KeyDecoder
+olivierlacan/keep-a-changelog
+3xxx/engineercms
+Frrrrrrrrank/auto_job__find__chatgpt__rpa
+m4b/goblin
+acantril/learn-cantrill-io-labs
+a13xp0p0v/linux-kernel-defence-map
+next-theme/hexo-theme-next
+metatube-community/jellyfin-plugin-metatube
+stylelint/stylelint-config-standard
