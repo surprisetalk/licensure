@@ -12240,3 +12240,13 @@ nelmio/alice
 willowtreeapps/Hyperion-Android
 aspnet/Announcements
 jellyfin/jellyfin-media-player
+eyurtsev/kor
+openshift/openshift-ansible
+bpatrik/pigallery2
+immutables/immutables
+openwpm/OpenWPM
+amrzv/awesome-colab-notebooks
+deforum-art/sd-webui-deforum
+SwiftKickMobile/SwiftMessages
+ory/dockertest
+pytest-dev/pluggy
