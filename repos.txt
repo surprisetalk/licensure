@@ -11915,3 +11915,12 @@ speced/bikeshed
 captn3m0/google-sre-ebook
 cjx82630/cjxlist
 Azure/azure-policy
+zappa/Zappa
+beautifier/js-beautify
+moses-smt/mosesdecoder
+Shopify/liquid
+google/oboe
+obytes/react-native-template-obytes
+mpetroff/pannellum
+facebookresearch/seamless_communication
+archcraft-os/archcraft
