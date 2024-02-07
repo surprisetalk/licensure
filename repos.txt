@@ -12317,3 +12317,11 @@ kubernetes/kubeadm
 windingwind/zotero-actions-tags
 sudheerj/javascript-interview-questions
 Paitesanshi/LLM-Agent-Survey
+alecthomas/participle
+apple/swift-algorithms
+aws-samples/aws-glue-samples
+NASA-AMMOS/3DTilesRendererJS
+sdatkinson/neural-amp-modeler
+etcd-io/jetcd
+manifold-systems/manifold
+namhyung/uftrace
