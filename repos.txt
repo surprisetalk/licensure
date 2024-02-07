@@ -12544,3 +12544,17 @@ horizon-eda/horizon
 jpochyla/psst
 RNCryptor/RNCryptor
 ViewComponent/view_component
+dicebear/dicebear
+FOGProject/fogproject
+hasherezade/hollows_hunter
+microsoft/vscode-arduino
+redox-os/redox
+IonicaBizau/scrape-it
+nitefood/asn
+redox-os/termion
+redox-os/ion
+redox-os/tfs
+NVIDIA/libcudacxx
+e1ven/Robohash
+apple/ml-mgie
+juhaku/utoipa
