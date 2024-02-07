@@ -12282,3 +12282,17 @@ reasonml/reason-react
 dotnet/try
 baaivision/EVA
 p-ranav/argparse
+P3TERX/GeoLite.mmdb
+tj/n
+nhibernate/fluent-nhibernate
+NeoApplications/Neo-Launcher
+antvis/AVA
+AIStream-Peelout/flow-forecast
+anacrolix/torrent
+openai/chatgpt-retrieval-plugin
+openai/maddpg
+biggerduck/RedTeamNotes
+polywock/globalSpeed
+wangyongjie-ntu/Awesome-explainable-AI
+dtolnay/syn
+prevwong/craft.js
