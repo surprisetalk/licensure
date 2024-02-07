@@ -12502,3 +12502,14 @@ TheLastGimbus/GooglePhotosTakeoutHelper
 graphdeco-inria/gaussian-splatting
 bastienwirtz/homer
 more-itertools/more-itertools
+eyre-rs/eyre
+nginxinc/NGINX-Demos
+electron/windows-installer
+projectdiscovery/nuclei-burp-plugin
+sglfree/freesky
+spatie/laravel-model-states
+QuivrHQ/quivr
+dlvhdr/gh-dash
+ampproject/amp-wp
+material-components/material-components-web
+pow-auth/pow
