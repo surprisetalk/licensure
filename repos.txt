@@ -12488,3 +12488,17 @@ myoung34/docker-github-actions-runner
 bavix/laravel-wallet
 krakenjs/zoid
 blawar/nut
+google/wire
+reactjs/react-modal
+brimdata/react-arborist
+beyondcode/laravel-websockets
+fullstorydev/grpcui
+litespeedtech/lsquic
+uzh-rpg/event-based_vision_resources
+golang/crypto
+IDEA-Research/GroundingDINO
+Red5/red5-server
+TheLastGimbus/GooglePhotosTakeoutHelper
+graphdeco-inria/gaussian-splatting
+bastienwirtz/homer
+more-itertools/more-itertools
