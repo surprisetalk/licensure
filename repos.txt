@@ -12273,3 +12273,12 @@ micropython/micropython-lib
 jhump/protoreflect
 randy3k/radian
 cnlohr/rawdrawandroid
+shinnytech/tqsdk-python
+tholman/cursor-effects
+naver/fe-news
+amimo/dcc
+winsw/winsw
+reasonml/reason-react
+dotnet/try
+baaivision/EVA
+p-ranav/argparse
