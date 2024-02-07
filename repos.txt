@@ -12534,3 +12534,13 @@ corpnewt/gibMacOS
 corpnewt/GenSMBIOS
 RetroMusicPlayer/RetroMusicPlayer
 r0x0r/pywebview
+numba/llvmlite
+openspug/spug
+ganelson/inform
+FreeCAD/FreeCAD-library
+alin23/Lunar
+googleprojectzero/sandbox-attacksurface-analysis-tools
+horizon-eda/horizon
+jpochyla/psst
+RNCryptor/RNCryptor
+ViewComponent/view_component
