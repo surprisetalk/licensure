@@ -12780,3 +12780,16 @@ catppuccin/vscode
 matplotlib/mplfinance
 microsoft/cppwinrt
 LukeSmithxyz/voidrice
+smartystreets/goconvey
+lalrpop/lalrpop
+PatrickF1/fzf.fish
+spatie/laravel-permission
+google-research/arxiv-latex-cleaner
+xenia-project/xenia
+swsnr/mdcat
+xoseperez/espurna
+ddollar/foreman
+symfony/phpunit-bridge
+alteryx/featuretools
+infobyte/faraday
+Urigo/graphql-cli
