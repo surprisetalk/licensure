@@ -12599,3 +12599,13 @@ graphql-python/graphene-django
 react-component/slider
 nuxt-community/auth-module
 Joxit/docker-registry-ui
+jrnold/ggthemes
+buefy/buefy
+boltgolt/howdy
+Shopify/packwerk
+remotely-save/remotely-save
+boardgameio/boardgame.io
+phpseclib/phpseclib
+openai/weak-to-strong
+anyoptimization/pymoo
+thoughtbot/dotfiles
