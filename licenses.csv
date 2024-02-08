@@ -12819,3 +12819,13 @@ symfony/phpunit-bridge,MIT
 alteryx/featuretools,BSD-3-Clause
 infobyte/faraday,GPL-3.0
 Urigo/graphql-cli,MIT
+ciderapp/Cider,AGPL-3.0
+termux/termux-x11,GPL-3.0
+docker-library/postgres,MIT
+Automattic/simplenote-macos,GPL-2.0
+hashicorp/vault-helm,MPL-2.0
+Netflix/metacat,Apache-2.0
+Unity-Technologies/arfoundation-samples,NOASSERTION
+bumbu/svg-pan-zoom,BSD-2-Clause
+gorilla-llm/gorilla-cli,Apache-2.0
+danielmiessler/fabric,null
