@@ -12766,3 +12766,17 @@ awslabs/deequ
 bazelbuild/bazelisk
 shaka-project/shaka-packager
 garrettj403/SciencePlots
+francoismichel/ssh3
+docarray/docarray
+google-deepmind/open_spiel
+Tucker-Eric/EloquentFilter
+cncf/wg-serverless
+melih-unsal/DemoGPT
+opentrack/opentrack
+microsoft/TypeScript-Website
+apache/atlas
+tttapa/Control-Surface
+catppuccin/vscode
+matplotlib/mplfinance
+microsoft/cppwinrt
+LukeSmithxyz/voidrice
