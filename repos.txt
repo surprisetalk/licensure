@@ -12673,3 +12673,14 @@ passbolt/passbolt_api
 chinchang/web-maker
 nix-community/nixos-generators
 mdn/django-locallibrary-tutorial
+giampaolo/pyftpdlib
+pret/pokecrystal
+unosquare/ffmediaelement
+j00ru/windows-syscalls
+bheisler/criterion.rs
+python-poetry/cleo
+webtorrent/webtorrent-cli
+WICG/webcomponents
+qiuyu96/CoDeF
+qinwf/awesome-R
+vektra/mockery
