@@ -12802,3 +12802,11 @@ Netflix/metacat
 Unity-Technologies/arfoundation-samples
 bumbu/svg-pan-zoom
 gorilla-llm/gorilla-cli
+deanxv/coze-discord-proxy
+agarrharr/awesome-cli-apps
+plantuml/plantuml-server
+AI-Citizen/SolidGPT
+cpp-best-practices/cppbestpractices
+FortAwesome/angular-fontawesome
+yogeshojha/rengine
+projectcapsule/capsule
