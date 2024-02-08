@@ -12810,3 +12810,9 @@ cpp-best-practices/cppbestpractices
 FortAwesome/angular-fontawesome
 yogeshojha/rengine
 projectcapsule/capsule
+androguard/androguard
+ionic-team/ionic-conference-app
+mircokroon/minecraft-world-downloader
+conversejs/converse.js
+vgteam/vg
+zeux/niagara
