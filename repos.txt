@@ -12932,3 +12932,12 @@ mojolicious/mojo
 bflattened/bflat
 naiba/nezha
 josdejong/jsoneditor
+Nozbe/WatermelonDB
+EmbarkStudios/puffin
+Zenika/alpine-chrome
+AakashKumarNain/annotated_research_papers
+hashicorp/hcl
+Gogh-Co/Gogh
+lewagon/dotfiles
+11ty/eleventy
+AILab-CVC/YOLO-World
