@@ -12816,3 +12816,15 @@ mircokroon/minecraft-world-downloader
 conversejs/converse.js
 vgteam/vg
 zeux/niagara
+kennethreitz/pytheory
+xhtml2pdf/xhtml2pdf
+aws/aws-codebuild-docker-images
+natario1/CameraView
+p-org/P
+burrowers/garble
+FlineDev/BartyCrouch
+sindresorhus/np
+charmbracelet/gum
+antonbabenko/pre-commit-terraform
+nextui-org/tailwind-variants
+smallfawn/QLScriptPublic
