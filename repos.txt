@@ -12992,3 +12992,11 @@ verlok/vanilla-lazyload
 twitter/finatra
 twitter/finagle
 kivy/pyjnius
+knightcrawler25/GLSL-PathTracer
+hanwen/go-fuse
+kevinchappell/formBuilder
+thoughtbot/shoulda-matchers
+Triple-T/gradle-play-publisher
+bytewax/bytewax
+maypok86/otter
+git-commit-id/git-commit-id-maven-plugin
