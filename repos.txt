@@ -12864,3 +12864,11 @@ X-PLUG/MobileAgent
 rajdeep/proton
 maennchen/ZipStream-PHP
 dokku/dokku-letsencrypt
+sniklaus/3d-ken-burns
+OpenDroneMap/WebODM
+leanflutter/awesome-flutter-desktop
+PowerJob/PowerJob
+yihui/xaringan
+rebelot/kanagawa.nvim
+TheAlgorithms/Algorithms-Explanation
+mherrmann/helium
