@@ -12872,3 +12872,16 @@ yihui/xaringan
 rebelot/kanagawa.nvim
 TheAlgorithms/Algorithms-Explanation
 mherrmann/helium
+pyppeteer/pyppeteer
+theKashey/react-focus-lock
+superbeyone/JetBrainsActiveCode
+ruby/debug
+mwmbl/mwmbl
+WindowsAddict/IDM-Activation-Script
+evilmartians/lefthook
+alseambusher/crontab-ui
+sql-js/sql.js
+apple/password-manager-resources
+awesome-lists/awesome-bash
+awslabs/llrt
+gdraheim/docker-systemctl-replacement
