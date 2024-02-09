@@ -13019,3 +13019,9 @@ jupyter/jupyter
 toluaina/pgsync
 eclipse/paho.mqtt.golang
 PacktPublishing/Deep-Reinforcement-Learning-Hands-On-Second-Edition
+BindsNET/bindsnet
+0dayCTF/reverse-shell-generator
+Aloshi/EmulationStation
+markqvist/Reticulum
+ankitrohatgi/WebPlotDigitizer
+shieldfy/API-Security-Checklist
