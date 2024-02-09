@@ -13014,3 +13014,8 @@ seebi/dircolors-solarized
 atopile/atopile
 BuilderIO/ai-shell
 knuckleswtf/scribe
+mendhak/gpslogger
+jupyter/jupyter
+toluaina/pgsync
+eclipse/paho.mqtt.golang
+PacktPublishing/Deep-Reinforcement-Learning-Hands-On-Second-Edition
