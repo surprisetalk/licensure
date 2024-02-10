@@ -13045,3 +13045,10 @@ djrobstep/migra
 WebAssembly/wasi-sdk
 borgmatic-collective/borgmatic
 k4yt3x/video2x
+rs/cors
+zoonk/uneebee
+getlogbook/logbook
+Blazored/LocalStorage
+dominikh/go-mode.el
+chenxiaolong/BCR
+red-data-tools/YouPlot
