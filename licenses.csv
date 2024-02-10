@@ -13086,3 +13086,12 @@ ffmpegwasm/ffmpeg.wasm,MIT
 apple/swift-async-algorithms,Apache-2.0
 geohot/minikeyvalue,MIT
 gorilla/schema,BSD-3-Clause
+ranisalt/node-argon2,MIT
+immersive-web/webxr,NOASSERTION
+bbycroft/llm-viz,null
+kubernetes/sample-controller,Apache-2.0
+libsndfile/libsndfile,LGPL-2.1
+developit/web-worker,Apache-2.0
+kittinunf/fuel,MIT
+FasterXML/jackson-module-kotlin,Apache-2.0
+serverless/examples,NOASSERTION
