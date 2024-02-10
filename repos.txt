@@ -13201,3 +13201,12 @@ DigitalRuby/IPBan
 Reference-LAPACK/lapack
 streamsync-cloud/streamsync
 tabatkins/railroad-diagrams
+pacstall/pacstall
+bigskysoftware/_hyperscript
+AxtMueller/Windows-Kernel-Explorer
+mledoze/countries
+ReagentX/imessage-exporter
+agmmnn/awesome-blender
+DeepSourceCorp/good-first-issue
+bcit-ci/CodeIgniter
+jsvine/pdfplumber
