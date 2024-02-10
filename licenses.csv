@@ -13226,3 +13226,8 @@ doccano/doccano,MIT
 SatDump/SatDump,GPL-3.0
 screego/server,GPL-3.0
 ardalis/GuardClauses,MIT
+aws-controllers-k8s/community,Apache-2.0
+DigitalRuby/IPBan,MIT
+Reference-LAPACK/lapack,NOASSERTION
+streamsync-cloud/streamsync,Apache-2.0
+tabatkins/railroad-diagrams,MIT

@@ -13196,3 +13196,8 @@ doccano/doccano
 SatDump/SatDump
 screego/server
 ardalis/GuardClauses
+aws-controllers-k8s/community
+DigitalRuby/IPBan
+Reference-LAPACK/lapack
+streamsync-cloud/streamsync
+tabatkins/railroad-diagrams
