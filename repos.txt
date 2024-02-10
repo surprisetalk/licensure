@@ -13068,3 +13068,8 @@ developit/web-worker
 kittinunf/fuel
 FasterXML/jackson-module-kotlin
 serverless/examples
+shopizer-ecommerce/shopizer
+DreamOfTheRedChamber/system-design-interviews
+cirosantilli/china-dictatorship
+franMarz/TexTools-Blender
+Yuliang-Liu/Monkey
