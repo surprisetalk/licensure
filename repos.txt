@@ -13185,3 +13185,14 @@ kean/Nuke
 beetbox/beets
 jprichardson/node-fs-extra
 gotify/server
+teslamotors/light-show
+slowkow/ggrepel
+reactive-python/reactpy
+go-micro/go-micro
+fubark/cyber
+cviebrock/eloquent-sluggable
+FilipePS/Traduzir-paginas-web
+doccano/doccano
+SatDump/SatDump
+screego/server
+ardalis/GuardClauses
