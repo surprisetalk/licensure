@@ -13210,3 +13210,7 @@ agmmnn/awesome-blender
 DeepSourceCorp/good-first-issue
 bcit-ci/CodeIgniter
 jsvine/pdfplumber
+zanfranceschi/rinha-de-backend-2024-q1
+jagrosh/MusicBot
+psharanda/Atributika
+rusterlium/rustler
