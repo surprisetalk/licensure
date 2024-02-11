@@ -13311,3 +13311,10 @@ AntiMicroX/antimicrox
 miso-belica/sumy
 opsdisk/pagodo
 pyllyukko/user.js
+EvilGenius-dot/RustMinerSystem
+dbrgn/tealdeer
+learn-anything/learn-anything.xyz
+r5n-dev/vscode-react-javascript-snippets
+clj-commons/aleph
+my8100/scrapydweb
+bbatsov/emacs-lisp-style-guide
