@@ -13354,3 +13354,13 @@ givanz/VvvebJs
 robtaussig/react-use-websocket
 novaspirit/pi-hosted
 dipjul/Grokking-the-Coding-Interview-Patterns-for-Coding-Questions
+alandtse/alexa_media_player
+guregu/null
+amebalabs/TRex
+dsherret/ts-morph
+commitizen/cz-cli
+aio-libs/aiokafka
+henninghall/react-native-date-picker
+portapack-mayhem/mayhem-firmware
+nccgroup/sobelow
+graphql/dataloader
