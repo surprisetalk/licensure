@@ -13318,3 +13318,10 @@ r5n-dev/vscode-react-javascript-snippets
 clj-commons/aleph
 my8100/scrapydweb
 bbatsov/emacs-lisp-style-guide
+okbob/pspg
+jooby-project/jooby
+marp-team/marp
+greenshot/greenshot
+LukeMathWalker/cargo-chef
+ealeksandrov/ProvisionQL
+jixserver/free-for-dev
