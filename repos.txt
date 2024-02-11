@@ -13364,3 +13364,14 @@ henninghall/react-native-date-picker
 portapack-mayhem/mayhem-firmware
 nccgroup/sobelow
 graphql/dataloader
+r0f1/datascience
+KaisenAmin/c_std
+amanchadha/coursera-deep-learning-specialization
+twitter/algebird
+alexlenail/NN-SVG
+paolosalvatori/ServiceBusExplorer
+madelson/DistributedLock
+spec-first/connexion
+ianarawjo/ChainForge
+liabru/matter-js
+SirVer/ultisnips
