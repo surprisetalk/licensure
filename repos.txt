@@ -13394,3 +13394,10 @@ ashishb/android-security-awesome
 prompt-toolkit/python-prompt-toolkit
 maaslalani/nap
 BetterDiscord/BetterDiscord
+denji/awesome-http-benchmark
+bootandy/dust
+lllyasviel/stable-diffusion-webui-forge
+DavidWells/analytics
+collabnix/kubelabs
+rust-lang/hashbrown
+Azgaar/Fantasy-Map-Generator
