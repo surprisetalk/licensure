@@ -13486,3 +13486,15 @@ Nevcairiel/LAVFilters
 yakimka/python_interview_questions
 happyfish100/fastdfs-client-java
 zq1997/deepin-wine
+Cyan4973/xxHash
+johnthebrit/CertificationMaterials
+spearow/juice
+mozilla/policy-templates
+skydoves/android-developer-roadmap
+serbanghita/Mobile-Detect
+sidekiq-scheduler/sidekiq-scheduler
+hausec/PowerZure
+umlaeute/v4l2loopback
+onevcat/Kingfisher
+layoutBox/FlexLayout
+dotnetcore/sharding-core
