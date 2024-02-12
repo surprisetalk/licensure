@@ -13416,3 +13416,9 @@ alecthomas/kingpin
 gohugoio/hugoDocs
 lukas-blecher/LaTeX-OCR
 PythonOT/POT
+gurugio/lowlevelprogramming-university
+leerob/leerob.io
+apexcharts/react-apexcharts
+guregu/dynamo
+RafaelGB/obsidian-db-folder
+YaLTeR/niri
