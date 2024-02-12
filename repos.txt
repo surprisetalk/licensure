@@ -13422,3 +13422,12 @@ apexcharts/react-apexcharts
 guregu/dynamo
 RafaelGB/obsidian-db-folder
 YaLTeR/niri
+FeiYull/TensorRT-Alpha
+baquer/GATE-and-CSE-Resources-for-Students
+the1812/Malware-Patch
+100daysofdevops/100daysofdevops
+princeton-nlp/tree-of-thought-llm
+Detaysoft/react-chat-elements
+PeterStrick/ViVeTool-GUI
+perftools/xhgui
+haugene/docker-transmission-openvpn
