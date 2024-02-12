@@ -13530,3 +13530,16 @@ umlaeute/v4l2loopback,GPL-2.0
 onevcat/Kingfisher,MIT
 layoutBox/FlexLayout,MIT
 dotnetcore/sharding-core,Apache-2.0
+percona/percona-xtrabackup,NOASSERTION
+hubblo-org/scaphandre,Apache-2.0
+cra-ros-pkg/robot_localization,NOASSERTION
+go-redsync/redsync,BSD-3-Clause
+vosen/ZLUDA,Apache-2.0
+MouseLand/cellpose,BSD-3-Clause
+ethereum/pm,NOASSERTION
+Textualize/toolong,MIT
+CesiumGS/gltf-pipeline,Apache-2.0
+jmoenig/Snap,AGPL-3.0
+spencermountain/spacetime,NOASSERTION
+remote-es/remotes,null
+smol-rs/smol,Apache-2.0
