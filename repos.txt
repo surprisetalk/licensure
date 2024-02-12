@@ -13408,3 +13408,11 @@ sorenisanerd/gotty
 oschwald/geoip2-golang
 gitname/react-gh-pages
 mbloch/mapshaper
+XIU2/CloudflareSpeedTest
+Rabbit-Spec/Surge
+0xPugazh/One-Liners
+go-macaron/macaron
+alecthomas/kingpin
+gohugoio/hugoDocs
+lukas-blecher/LaTeX-OCR
+PythonOT/POT
