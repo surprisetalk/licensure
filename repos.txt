@@ -13613,3 +13613,13 @@ innoveit/react-native-ble-manager
 thygate/stable-diffusion-webui-depthmap-script
 abo-abo/swiper
 d3plus/d3plus
+julien-duponchelle/python-mysql-replication
+mehdihadeli/awesome-software-architecture
+spotify/pedalboard
+rust-crdt/rust-crdt
+OpenHD/OpenHD
+epicweb-dev/advanced-react-hooks
+vinceliuice/WhiteSur-gtk-theme
+albumentations-team/albumentations
+public-activity/public_activity
+rbaron/b-parasite
