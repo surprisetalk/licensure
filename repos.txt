@@ -13623,3 +13623,14 @@ vinceliuice/WhiteSur-gtk-theme
 albumentations-team/albumentations
 public-activity/public_activity
 rbaron/b-parasite
+tidwall/gjson
+ohler55/oj
+open-duelyst/duelyst
+MiniProfiler/rack-mini-profiler
+mevdschee/php-crud-api
+Sinaptik-AI/pandas-ai
+ixartz/Next-JS-Landing-Page-Starter-Template
+jlaffaye/ftp
+awslabs/aws-lambda-web-adapter
+nbubna/store
+castwide/solargraph
