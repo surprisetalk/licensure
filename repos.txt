@@ -13600,3 +13600,16 @@ aolofsson/oh
 absinthe-graphql/absinthe
 react-native-netinfo/react-native-netinfo
 honestbleeps/Reddit-Enhancement-Suite
+canonical/snapcraft
+dremin/RetroBar
+release-it/release-it
+eth-sri/lmql
+ehmicky/cross-platform-node-guide
+ehmicky/modern-errors
+telekom-security/tpotce
+pybuilder/pybuilder
+anvilco/spectaql
+innoveit/react-native-ble-manager
+thygate/stable-diffusion-webui-depthmap-script
+abo-abo/swiper
+d3plus/d3plus
