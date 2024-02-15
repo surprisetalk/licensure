@@ -13816,3 +13816,12 @@ wireservice/agate
 vnglst/pong-wars
 reorproject/reor
 facebookresearch/AnimatedDrawings
+rancher/rke
+MongoEngine/mongoengine
+LuckPerms/LuckPerms
+freerouting/freerouting
+sloria/TextBlob
+cisagov/Malcolm
+andrewlock/StronglyTypedId
+synthetichealth/synthea
+LukeSmithxyz/LARBS
