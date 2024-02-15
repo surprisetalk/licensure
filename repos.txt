@@ -13825,3 +13825,14 @@ cisagov/Malcolm
 andrewlock/StronglyTypedId
 synthetichealth/synthea
 LukeSmithxyz/LARBS
+nschloe/tiptop
+jsverse/transloco
+tj/git-extras
+RubixML/ML
+arximboldi/immer
+allgood/OpenNoteScanner
+luarocks/luarocks
+epicweb-dev/advanced-react-patterns
+cathugger/mkp224o
+benoitc/hackney
+test-kitchen/test-kitchen
