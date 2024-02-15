@@ -13706,3 +13706,9 @@ LayerZero-Labs/LayerZero
 builtbybel/BloatynosyAI
 xcpretty/xcpretty
 akka/akka-http
+scinfu/SwiftSoup
+flick0/dotfiles
+Smorodov/Multitarget-tracker
+coderabbitai/ai-pr-reviewer
+awesome-devblog/awesome-devblog
+dadhi/FastExpressionCompiler
