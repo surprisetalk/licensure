@@ -13936,3 +13936,10 @@ lk-geimfari/awesomo
 tdlib/telegram-bot-api
 EmbarkStudios/kajiya
 JonasGeiping/cramming
+Lunakepio/Mario-Kart-3.js
+yamafaktory/jql
+planck-repl/planck
+nfc-tools/libnfc
+myclabs/php-enum
+coreb1t/awesome-pentest-cheat-sheets
+luraproject/lura
