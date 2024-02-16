@@ -13885,3 +13885,10 @@ ELS-RD/kernl
 jazzband/pip-tools
 SystemsApproach/book
 minar09/awesome-virtual-try-on
+jtroo/kanata
+ben-rogerson/twin.macro
+indutny/node-ip
+hkchengrex/XMem
+wuxx/nanoDAP
+gdamore/tcell
+cairoshell/cairoshell
