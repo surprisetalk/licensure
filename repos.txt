@@ -13875,3 +13875,13 @@ MicroPyramid/Django-CRM
 getlantern/lantern
 pypa/virtualenv
 prometheus/jmx_exporter
+WuKongIM/WuKongIM
+skywind3000/asyncrun.vim
+SilenceLove/HXPhotoPicker
+pywebio/PyWebIO
+Ftindy/IPTV-URL
+vercel/satori
+ELS-RD/kernl
+jazzband/pip-tools
+SystemsApproach/book
+minar09/awesome-virtual-try-on
