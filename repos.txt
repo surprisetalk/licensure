@@ -13956,3 +13956,14 @@ lefayjey/linWinPwn
 axuno/SmartFormat
 alkaline-ml/pmdarima
 kmvan/x-prober
+sevlyar/go-daemon
+AlexxIT/WebRTC
+Dobiasd/FunctionalPlus
+htqin/awesome-model-quantization
+justinmk/vim-sneak
+RRZE-HPC/likwid
+nathanreyes/v-calendar
+twitchtv/twirp
+XcodesOrg/xcodes
+grosser/parallel
+tokio-rs/prost
