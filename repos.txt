@@ -13984,3 +13984,11 @@ Fanghua-Yu/SUPIR
 Jon-Becker/heimdall-rs
 alexellis/awesome-baremetal
 OpenImageDenoise/oidn
+elixir-nx/axon
+tsuru/tsuru
+bitdump/BLHeli
+kepano/flexoki
+klzgrad/naiveproxy
+streamich/memfs
+Consensys/ethereum-developer-tools-list
+lmarzen/esp32-weather-epd
