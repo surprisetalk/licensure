@@ -13943,3 +13943,16 @@ nfc-tools/libnfc
 myclabs/php-enum
 coreb1t/awesome-pentest-cheat-sheets
 luraproject/lura
+asticode/go-astilectron
+Kotlin/kotlinx.serialization
+asc-lab/dotnetcore-microservices-poc
+apptension/developer-handbook
+magnars/dash.el
+TastSong/CrazyCar
+expressjs/expressjs.com
+svelte-add/svelte-add
+jishi/node-sonos-http-api
+lefayjey/linWinPwn
+axuno/SmartFormat
+alkaline-ml/pmdarima
+kmvan/x-prober
