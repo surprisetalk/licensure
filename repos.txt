@@ -13869,3 +13869,9 @@ wix/react-native-calendars
 LOLBAS-Project/LOLBAS
 ruby/did_you_mean
 teamgram/teamgram-server
+Tyrrrz/YoutubeExplode
+lunasec-io/lunasec
+MicroPyramid/Django-CRM
+getlantern/lantern
+pypa/virtualenv
+prometheus/jmx_exporter
