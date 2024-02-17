@@ -14042,3 +14042,9 @@ hainguyents13/mechvibes
 damnever/pigar
 originjs/vite-plugin-federation
 EasyIME/PIME
+NVIDIA/Q2RTX
+CollegesChat/university-information
+dvx/lofi
+zimfw/zimfw
+PythonFreeCourse/Notebooks
+banq/jdonframework
