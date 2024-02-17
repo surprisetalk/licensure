@@ -14030,3 +14030,9 @@ kkapsner/CanvasBlocker
 r-lib/devtools
 PorkStudios/FarPlaneTwo
 TedGoas/Cerberus
+delvedor/find-my-way
+nakanomikuorg/arch-guide
+jkuhlmann/cgltf
+higan-emu/higan
+rune-rs/rune
+Stability-AI/stable-audio-tools
