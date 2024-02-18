@@ -14241,3 +14241,15 @@ luban-agi/Awesome-AIGC-Tutorials
 Schweinepriester/github-profile-achievements
 vinceliuice/WhiteSur-icon-theme
 arl/statsviz
+beancount/beancount
+gilesknap/gphotos-sync
+google/magika
+jassics/awesome-aws-security
+mwouts/jupytext
+risinglightdb/risinglight
+StepfenShawn/Cantonese
+ninja-build/ninja
+mithi/react-philosophies
+LeetCode-OpenSource/vscode-leetcode
+thinkgem/jeesite4
+InternLM/xtuner
