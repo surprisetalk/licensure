@@ -14253,3 +14253,11 @@ mithi/react-philosophies
 LeetCode-OpenSource/vscode-leetcode
 thinkgem/jeesite4
 InternLM/xtuner
+metafates/mangal
+mopidy/mopidy
+observablehq/framework
+michalchudziak/react-native-geolocation
+folke/zen-mode.nvim
+bogdan/datagrid
+svg-sprite/svg-sprite
+zealdocs/zeal
