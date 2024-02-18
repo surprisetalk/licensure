@@ -14229,3 +14229,15 @@ cabol/nebulex
 ng-matero/ng-matero
 Geekhyt/weekly
 python-control/python-control
+parse-community/Parse-SDK-Android
+dillonzq/LoveIt
+treefrogframework/treefrog-framework
+stevenyomi/copymanga
+protobuf-net/protobuf-net
+mik3y/usb-serial-for-android
+nefarius/DsHidMini
+pry/pry
+luban-agi/Awesome-AIGC-Tutorials
+Schweinepriester/github-profile-achievements
+vinceliuice/WhiteSur-icon-theme
+arl/statsviz
