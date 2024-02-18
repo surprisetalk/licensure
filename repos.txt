@@ -14187,3 +14187,6 @@ wenhwu/awesome-remote-sensing-change-detection
 nivekuil/rip
 cemu-project/Cemu
 duytq94/flutter-chat-demo
+harttle/liquidjs
+jekip/naive-ui-admin
+6mile/DevSecOps-Playbook
