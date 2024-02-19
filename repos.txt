@@ -14512,3 +14512,12 @@ nuttyartist/notes
 opengl-tutorials/ogl
 mum4k/termdash
 indygreg/python-build-standalone
+jschneier/django-storages
+gdg-x/hoverboard
+clojure/core.async
+nicoboss/nsz
+alandefreitas/matplotplusplus
+capnproto/capnproto-rust
+ahmedkhalf/project.nvim
+asheeshcric/awesome-contrastive-self-supervised-learning
+servo/rust-smallvec
