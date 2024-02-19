@@ -14480,3 +14480,11 @@ rhomobile/rhodes
 hizzgdev/jsmind
 0xk1h0/ChatGPT_DAN
 sismics/docs
+deluge-torrent/deluge
+Masterminds/semver
+Screenly/Anthias
+mmatyas/pegasus-frontend
+mRemoteNG/mRemoteNG
+sottlmarek/DevSecOps
+itgalaxy/favicons
+fluttercommunity/get_it
