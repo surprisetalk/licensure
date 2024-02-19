@@ -14361,3 +14361,16 @@ liguobao/HouseSearch
 noborus/trdsql
 web-push-libs/web-push
 miyuesc/bpmn-process-designer
+benoitc/gunicorn
+arthaud/git-dumper
+rubycdp/cuprite
+saadeghi/theme-change
+xmcp/pakku.js
+refraction-ray/xalpha
+MCSManager/MCSManager
+Syslifters/sysreptor
+focus-creative-games/luban
+open-wa/wa-automate-nodejs
+TG-Twilight/AWAvenue-Ads-Rule
+frenck/home-assistant-config
+dbcli/mycli
