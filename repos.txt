@@ -14488,3 +14488,11 @@ mRemoteNG/mRemoteNG
 sottlmarek/DevSecOps
 itgalaxy/favicons
 fluttercommunity/get_it
+AppHouseKitchen/AlDente-Charge-Limiter
+clojure/core.typed
+Instawork/hyperview
+epicweb-dev/react-performance
+dempseyatgithub/BuildSettingExtractor
+SFML/imgui-sfml
+petronny/gfwlist2pac
+erlyaws/yaws
