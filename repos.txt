@@ -14496,3 +14496,11 @@ dempseyatgithub/BuildSettingExtractor
 SFML/imgui-sfml
 petronny/gfwlist2pac
 erlyaws/yaws
+airsquared/blobsaver
+pykeen/pykeen
+jamstack/jamstack.org
+nuxt-modules/color-mode
+state-spaces/s4
+Nutlope/notesGPT
+hmjz100/Online-disk-direct-link-download-assistant
+gsass1/NTop
