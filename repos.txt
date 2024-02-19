@@ -14350,3 +14350,11 @@ yangjian102621/chatgpt-plus
 OffcierCia/Crypto-OpSec-SelfGuard-RoadMap
 OffcierCia/DeFi-Developer-Road-Map
 OffcierCia/ultimate-defi-research-base
+ben1234560/AiLearning-Theory-Applying
+tylermorganwall/rayshader
+KurtBestor/Hitomi-Downloader
+alievk/avatarify-python
+guybedford/es-module-shims
+natemcmaster/CommandLineUtils
+massCodeIO/massCode
+liguobao/HouseSearch
