@@ -14504,3 +14504,11 @@ state-spaces/s4
 Nutlope/notesGPT
 hmjz100/Online-disk-direct-link-download-assistant
 gsass1/NTop
+KnpLabs/KnpMenu
+kulshekhar/ts-jest
+wet-boew/wet-boew
+corecoding/Vitals
+nuttyartist/notes
+opengl-tutorials/ogl
+mum4k/termdash
+indygreg/python-build-standalone
