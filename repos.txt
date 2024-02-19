@@ -14428,3 +14428,15 @@ dagu-dev/dagu
 tsujan/Kvantum
 lokalise/i18n-ally
 mvdbos/php-spider
+ChristianLempa/cheat-sheets
+Omooo/Android-Notes
+jeecgboot/jeecgboot-vue3
+vincentdoerig/latex-css
+VoronDesign/Voron-0
+fossasia/eventyay-video
+tsdjs/tsd
+KOP-XIAO/QuantumultX
+XPoet/picx
+thomasp85/gganimate
+didi/booster
+catsout/wallpaper-engine-kde-plugin
