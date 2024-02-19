@@ -14472,3 +14472,11 @@ sensity-ai/dot
 paralax/awesome-honeypots
 profanity-im/profanity
 nxtrace/NTrace-core
+dirkjanm/ROADtools
+Zeal-Operating-System/ZealOS
+Leleat/Tiling-Assistant
+zodiacon/TotalRegistry
+rhomobile/rhodes
+hizzgdev/jsmind
+0xk1h0/ChatGPT_DAN
+sismics/docs
