@@ -14440,3 +14440,14 @@ XPoet/picx
 thomasp85/gganimate
 didi/booster
 catsout/wallpaper-engine-kde-plugin
+Suprcode/mir2
+borisdj/EFCore.BulkExtensions
+screetsec/Sudomy
+epi052/feroxbuster
+BulmaTemplates/bulma-templates
+dalibo/pg_activity
+android/ndk-samples
+cloudflare/workers-rs
+vifm/vifm
+you-dont-need/You-Dont-Need-Lodash-Underscore
+wishihab/Android-RATList
