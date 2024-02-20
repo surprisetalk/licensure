@@ -14521,3 +14521,10 @@ capnproto/capnproto-rust
 ahmedkhalf/project.nvim
 asheeshcric/awesome-contrastive-self-supervised-learning
 servo/rust-smallvec
+I-S00N/I-S00N
+windwp/nvim-autopairs
+caddyserver/certmagic
+vasturiano/force-graph
+fabionoth/awesome-cyber-security
+jazzband/dj-database-url
+BrasilAPI/BrasilAPI
