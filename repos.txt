@@ -14528,3 +14528,8 @@ vasturiano/force-graph
 fabionoth/awesome-cyber-security
 jazzband/dj-database-url
 BrasilAPI/BrasilAPI
+infection/infection
+the1812/Bilibili-Evolved
+total-typescript/beginners-typescript-tutorial
+typelevel/scalacheck
+ClassiCube/ClassiCube
