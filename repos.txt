@@ -14545,3 +14545,16 @@ golang-design/go-questions
 kucherenko/jscpd
 ecomfe/vue-echarts
 jsonpickle/jsonpickle
+folke/noice.nvim
+HighCapable/YukiHookAPI
+linuxdotexe/nordic-wallpapers
+stevearc/oil.nvim
+vvaltchev/tilck
+Grt1228/chatgpt-java
+johnlindquist/kit
+microsoft/Mastering-GitHub-Copilot-for-Paired-Programming
+Archmage83/tvapk
+ShiqiYu/CPP
+microsoft/IoT-For-Beginners
+facebookresearch/jepa
+Guang000/Awesome-Dataset-Distillation
