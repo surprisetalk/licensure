@@ -14533,3 +14533,7 @@ the1812/Bilibili-Evolved
 total-typescript/beginners-typescript-tutorial
 typelevel/scalacheck
 ClassiCube/ClassiCube
+run-llama/LlamaIndexTS
+Xudong-Huang/may
+leozide/leocad
+bokuweb/react-rnd
