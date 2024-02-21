@@ -14717,3 +14717,12 @@ wenzhixin/multiple-select
 jupyterlab/jupyterlab-git
 justin-schroeder/arrow-js
 mooz/js2-mode
+begeekmyfriend/leetcode
+GNS3/gns3-gui
+GoogleChromeLabs/quicklink
+twbs/rfs
+Speykious/cve-rs
+dipakkr/A-to-Z-Resources-for-Students
+not-fl3/miniquad
+ankane/ahoy_email
+rails-api/active_model_serializers
