@@ -14836,3 +14836,16 @@ Jigsaw-Code/outline-apps
 Anjok07/ultimatevocalremovergui
 total-typescript/total-typescript-book
 3b1b/videos
+krishnaik06/Perfect-Roadmap-To-Learn-Data-Science-In-2024
+jondot/awesome-devenv
+cookpete/react-player
+SoftEtherVPN/SoftEtherVPN
+nrc/r4cppp
+mit-han-lab/llm-awq
+kubernetes-sigs/kueue
+GameTechDev/PresentMon
+irgolic/AutoPR
+ReFirmLabs/binwalk
+refraction-networking/utls
+colesbury/nogil
+DerwenAI/pytextrank
