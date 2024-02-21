@@ -14670,3 +14670,17 @@ ellisdg/3DUnetCNN
 ros/ros
 syncfusion/flutter-widgets
 MahApps/MahApps.Metro
+mkrl/misbrands
+Stability-AI/StableStudio
+holdenk/spark-testing-base
+libssh2/libssh2
+jitsi/jitsi
+gopeak/masterlab
+ritwickdey/vscode-live-server
+swyxio/brain
+BrasilAPI/cep-promise
+graph-gophers/graphql-go
+cym1102/nginxWebUI
+mstorsjo/fdk-aac
+bepass-org/oblivion
+free-educa/books
