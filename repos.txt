@@ -14819,3 +14819,14 @@ microsoft/CDM
 TobikoData/sqlmesh
 phusion/passenger-docker
 cglib/cglib
+OpenVR-Advanced-Settings/OpenVR-AdvancedSettings
+zackelia/bclm
+collab-project/videojs-record
+nmattia/niv
+vlang/ved
+cboxdoerfer/fsearch
+HuaizhengZhang/Awesome-System-for-Machine-Learning
+sparklemotion/mechanize
+jawj/zapatos
+nikic/PHP-Parser
+paulirish/git-open
