@@ -14805,3 +14805,17 @@ dstackai/dstack
 microsoft/service-fabric
 gptscript-ai/gptscript
 codersguild/System-Design
+xerial/snappy-java
+kamilkisiela/graphql-inspector
+argmaxinc/WhisperKit
+altmany/export_fig
+CVCUDA/CV-CUDA
+google/promises
+gulrak/filesystem
+h5py/h5py
+nanxiaobei/hugo-paper
+RockstarLang/rockstar
+microsoft/CDM
+TobikoData/sqlmesh
+phusion/passenger-docker
+cglib/cglib
