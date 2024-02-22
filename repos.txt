@@ -15024,3 +15024,6 @@ Mange/rtl8192eu-linux-driver
 PuerkitoBio/goquery
 microsoft/nodejstools
 canove/whaticket-community
+wire-elements/modal
+bastillion-io/Bastillion
+atar-axis/xpadneo
