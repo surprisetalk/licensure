@@ -15015,3 +15015,12 @@ AsyncHttpClient/async-http-client
 Shopify/restyle
 shivammathur/setup-php
 zksync/credo
+retext-project/retext
+audulus/rui
+osandov/drgn
+WebAssembly/design
+rbsec/sslscan
+Mange/rtl8192eu-linux-driver
+PuerkitoBio/goquery
+microsoft/nodejstools
+canove/whaticket-community
