@@ -14962,3 +14962,14 @@ OmniSharp/omnisharp-roslyn
 ankane/strong_migrations
 jendrikseipp/vulture
 jhuangtw/xg2xg
+google/uuid
+antonmedv/finder
+ramnes/notion-sdk-py
+tazjin/nixery
+benedekrozemberczki/karateclub
+threedr3am/learnjavabug
+discord-jda/JDA
+guard/listen
+askorama/orama
+postgresml/pgcat
+predibase/lorax
