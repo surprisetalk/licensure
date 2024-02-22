@@ -14926,3 +14926,14 @@ matanolabs/matano
 Orange-Cyberdefense/GOAD
 mitogen-hq/mitogen
 xtuhcy/gecco
+danger/danger-js
+seemoo-lab/AirGuard
+NobyDa/Script
+tpaviot/pythonocc-core
+baomidou/dynamic-datasource
+google/gemma_pytorch
+HavocFramework/Havoc
+matevip/matecloud
+0no-co/gql.tada
+kayak/pypika
+wgwang/awesome-LLMs-In-China
