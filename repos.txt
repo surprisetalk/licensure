@@ -14866,3 +14866,15 @@ pods-framework/pods
 gpac/mp4box.js
 entronad/graphic
 NetrisTV/ws-scrcpy
+Matt-Fontes/SendScriptWhatsApp
+jwngr/sdow
+qazbnm456/awesome-web-security
+Jack-Cherish/PythonPark
+martinshkreli/models
+php-telegram-bot/core
+sokrypton/ColabFold
+Cysharp/ZLogger
+rahuldkjain/github-profile-readme-generator
+htmlhint/HTMLHint
+Artikash/Textractor
+djsime1/awesome-flipperzero
