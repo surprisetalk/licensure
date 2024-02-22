@@ -14912,3 +14912,17 @@ fkie-cad/cwe_checker
 YauhenKavalchuk/interview-questions
 mxcl/PromiseKit
 hmgle/graftcp
+sqlancer/sqlancer
+smartstore/Smartstore
+chaskiq/chaskiq
+jesse-ai/jesse
+RyanFehr/HackerRank
+missing-semester-cn/missing-semester-cn.github.io
+felixguendling/cista
+opentk/opentk
+cssnano/cssnano
+zhaojh329/oui
+matanolabs/matano
+Orange-Cyberdefense/GOAD
+mitogen-hq/mitogen
+xtuhcy/gecco
