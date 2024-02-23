@@ -15206,3 +15206,15 @@ arangodb/arangodb,NOASSERTION
 awsdocs/aws-lambda-developer-guide,MIT-0
 warpdotdev/Warp,NOASSERTION
 SUDO-AI-3D/zero123plus,Apache-2.0
+fo-dicom/fo-dicom,NOASSERTION
+AudioKit/AudioKit,MIT
+skytable/skytable,AGPL-3.0
+derf/feh,NOASSERTION
+mockito/mockito-kotlin,MIT
+cloudreve/Cloudreve,GPL-3.0
+malwaredllc/byob,GPL-3.0
+import-js/eslint-plugin-import,MIT
+dromara/Sa-Token,Apache-2.0
+gosimple/slug,MPL-2.0
+yourlabs/django-autocomplete-light,MIT
+rnwood/smtp4dev,BSD-3-Clause
