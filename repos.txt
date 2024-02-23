@@ -15027,3 +15027,6 @@ canove/whaticket-community
 wire-elements/modal
 bastillion-io/Bastillion
 atar-axis/xpadneo
+jcrist/msgspec
+cosmicpython/book
+alexreardon/tiny-invariant
