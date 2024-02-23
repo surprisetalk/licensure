@@ -15056,3 +15056,7 @@ jimp-dev/jimp
 facebookresearch/DiT
 google/gemma.cpp
 hfiref0x/WinObjEx64
+sfu-db/connector-x
+Tencent/matrix
+brevdev/notebooks
+github/relative-time-element
