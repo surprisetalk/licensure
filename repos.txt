@@ -15302,3 +15302,8 @@ uwiger/gproc
 pycontribs/jira
 ericdouglas/traduz-ai
 librespot-org/librespot
+nat-n/poethepoet
+php/php-langspec
+tfussell/xlnt
+waydroid/waydroid
+sds/overcommit
