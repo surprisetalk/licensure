@@ -15278,3 +15278,6 @@ rubyzip/rubyzip
 schollz/progressbar
 munificent/craftinginterpreters
 skyjake/lagrange
+harmonoid/harmonoid
+markdown-it/markdown-it
+pistacheio/pistache
