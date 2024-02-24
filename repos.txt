@@ -15205,3 +15205,15 @@ icalendar/icalendar
 Naituw/IPAPatch
 microsoft/dotnet
 cms-sw/cmssw
+NaturalIntelligence/fast-xml-parser
+jaemk/cached
+sb2nov/resume
+bookfere/Ebook-Translator-Calibre-Plugin
+poooi/poi
+Divide-By-0/ideas-for-projects-people-would-use
+YerongAI/Office-Tool
+majinqiawa/xxn
+mikaelmello/inquire
+lexrus/LTMorphingLabel
+Zulko/moviepy
+part-cw/lambdanative
