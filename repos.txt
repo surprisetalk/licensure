@@ -15323,3 +15323,10 @@ rigtorp/awesome-lockfree
 mycolorway/simditor
 AngusJohnson/Clipper2
 hendisantika/List-All-Programming-Telegram-Group
+garywill/linux-router
+codingknite/frontend-development
+dvorka/hstr
+ohmjs/ohm
+jscottsmith/react-scroll-parallax
+zpao/qrcode.react
+RWKV/rwkv.cpp
