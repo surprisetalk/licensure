@@ -15481,3 +15481,7 @@ wahyd4/work-in-australia,null
 stepancheg/rust-protobuf,MIT
 ttroy50/cmake-examples,MIT
 find-sec-bugs/find-sec-bugs,LGPL-3.0
+requests/requests-oauthlib,ISC
+yoavbls/pretty-ts-errors,MIT
+serilog/serilog,Apache-2.0
+chibat/chrome-extension-typescript-starter,MIT

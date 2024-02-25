@@ -15420,3 +15420,7 @@ wahyd4/work-in-australia
 stepancheg/rust-protobuf
 ttroy50/cmake-examples
 find-sec-bugs/find-sec-bugs
+requests/requests-oauthlib
+yoavbls/pretty-ts-errors
+serilog/serilog
+chibat/chrome-extension-typescript-starter
