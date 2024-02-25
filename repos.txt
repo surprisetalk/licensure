@@ -15380,3 +15380,7 @@ sparanoid/chinese-copywriting-guidelines
 nuxt-community/express-template
 SawyerHood/draw-a-ui
 stepci/garph
+nutsdb/nutsdb
+HKUST-Aerial-Robotics/VINS-Mono
+calimarkus/JDStatusBarNotification
+http-party/node-http-proxy
