@@ -15320,3 +15320,6 @@ MrGlockenspiel/activate-linux
 nlpxucan/WizardLM
 MahmoudAshraf97/whisper-diarization
 rigtorp/awesome-lockfree
+mycolorway/simditor
+AngusJohnson/Clipper2
+hendisantika/List-All-Programming-Telegram-Group
