@@ -15415,3 +15415,8 @@ react-figma/react-figma
 facelessuser/BracketHighlighter
 springdoc/springdoc-openapi
 rocksdanister/lively
+eon01/awesome-chatgpt
+wahyd4/work-in-australia
+stepancheg/rust-protobuf
+ttroy50/cmake-examples
+find-sec-bugs/find-sec-bugs
