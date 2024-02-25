@@ -15313,3 +15313,10 @@ graphistry/pygraphistry
 hahwul/DevSecOps
 gin-gonic/examples
 Molunerfinn/PicGo
+stevenpetryk/mafs
+welliamcao/OpsManage
+sfu-db/dataprep
+MrGlockenspiel/activate-linux
+nlpxucan/WizardLM
+MahmoudAshraf97/whisper-diarization
+rigtorp/awesome-lockfree
