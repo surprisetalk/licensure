@@ -15307,3 +15307,5 @@ php/php-langspec
 tfussell/xlnt
 waydroid/waydroid
 sds/overcommit
+FlyGoat/RyzenAdj
+h4cc/awesome-elixir
