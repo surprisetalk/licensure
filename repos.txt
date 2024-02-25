@@ -15424,3 +15424,5 @@ requests/requests-oauthlib
 yoavbls/pretty-ts-errors
 serilog/serilog
 chibat/chrome-extension-typescript-starter
+ossu/data-science
+trentm/python-markdown2
