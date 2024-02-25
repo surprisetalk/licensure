@@ -15350,3 +15350,12 @@ StartBootstrap/startbootstrap-sb-admin
 kuma-ui/kuma-ui
 BartoszMilewski/Publications
 moncho/dry
+zwang4/awesome-machine-learning-in-compilers
+David-VTUK/CKA-StudyGuide
+root-gg/plik
+x4nth055/pythoncode-tutorials
+sonic-pi-net/sonic-pi
+cea-sec/miasm
+alibaba/QLExpress
+FujiwaraChoki/MoneyPrinterV2
+microsoft/vscode-remote-release
