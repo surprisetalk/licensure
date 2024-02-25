@@ -15401,3 +15401,17 @@ grpc/grpc-kotlin
 klinecharts/KLineChart
 ucg8j/awesome-dash
 steveruizok/perfect-freehand
+iam-veeramalla/terraform-zero-to-hero
+getumbrel/umbrel
+ryboe/q
+RamonUnch/AltSnap
+instill-ai/core
+SpectoLabs/hoverfly
+astral-sh/rye
+kpu/kenlm
+dbisu/pico-ducky
+ledger/ledger
+react-figma/react-figma
+facelessuser/BracketHighlighter
+springdoc/springdoc-openapi
+rocksdanister/lively
