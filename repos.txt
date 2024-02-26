@@ -15450,3 +15450,11 @@ lets-mica/mica
 guangzhengli/k8s-tutorials
 PaddlePaddle/PaddleSpeech
 hitsz-ids/synthetic-data-generator
+oven-sh/awesome-bun
+OSCPU/NutShell
+adobe-fonts/source-sans
+yanhaijing/template.js
+yanhaijing/zepto.fullpage
+servicetitan/Stl.Fusion
+NVIDIA/DeepLearningExamples
+VSpaceCode/VSpaceCode
