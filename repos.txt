@@ -15430,3 +15430,12 @@ pencil2d/pencil
 adirh3/Fluent-Search
 fastai/nbdev
 kerl/kerl
+WisdomShell/codeshell
+yzfly/awesome-chatgpt-zh
+yoshitomo-matsubara/torchdistill
+RobinLinus/snapdrop
+thuml/Transfer-Learning-Library
+jeremydaly/dynamodb-toolbox
+bee-queue/bee-queue
+image-size/image-size
+glorylab/wave
