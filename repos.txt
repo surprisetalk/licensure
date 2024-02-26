@@ -15591,3 +15591,8 @@ streamlink/streamlink-twitch-gui
 deschler/django-modeltranslation
 x64dbg/ScyllaHide
 jjjake/internetarchive
+conduktor/kafka-stack-docker-compose
+NVIDIA/GenerativeAIExamples
+SupaGruen/StableDiffusion-CheatSheet
+tramcar/awesome-job-boards
+CodeByZach/pace
