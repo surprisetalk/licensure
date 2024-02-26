@@ -15439,3 +15439,14 @@ jeremydaly/dynamodb-toolbox
 bee-queue/bee-queue
 image-size/image-size
 glorylab/wave
+PaddlePaddle/Paddle-Lite
+SpotX-Official/SpotX-Bash
+lanyulei/ferry
+feiyangqingyun/QWidgetDemo
+binance/binance-public-data
+psd-tools/psd-tools
+outroll/vesta
+lets-mica/mica
+guangzhengli/k8s-tutorials
+PaddlePaddle/PaddleSpeech
+hitsz-ids/synthetic-data-generator
