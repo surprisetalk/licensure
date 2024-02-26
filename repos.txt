@@ -15426,3 +15426,7 @@ serilog/serilog
 chibat/chrome-extension-typescript-starter
 ossu/data-science
 trentm/python-markdown2
+pencil2d/pencil
+adirh3/Fluent-Search
+fastai/nbdev
+kerl/kerl
