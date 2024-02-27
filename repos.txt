@@ -15596,3 +15596,7 @@ NVIDIA/GenerativeAIExamples
 SupaGruen/StableDiffusion-CheatSheet
 tramcar/awesome-job-boards
 CodeByZach/pace
+MaJerle/stm32-usart-uart-dma-rx-tx
+Jeroen-G/laravel-packager
+vitaly-t/pg-promise
+civetweb/civetweb
