@@ -15623,3 +15623,13 @@ springload/awesome-wagtail
 datastax/python-driver
 loiane/javascript-datastructures-algorithms
 Optiboot/optiboot
+itamarst/eliot
+stackblitz/core
+pry0cc/axiom
+gitahead/gitahead
+ossf/allstar
+dwightwatson/rememberable
+imoneoi/openchat
+ExistentialAudio/BlackHole
+Code-dot-mil/code.mil
+grantjenks/python-sortedcontainers
