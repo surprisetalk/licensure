@@ -15617,3 +15617,9 @@ cuducos/minha-receita
 tidalcycles/Tidal
 btholt/complete-intro-to-react-v8
 pallets/werkzeug
+GothenburgBitFactory/timewarrior
+csound/csound
+springload/awesome-wagtail
+datastax/python-driver
+loiane/javascript-datastructures-algorithms
+Optiboot/optiboot
