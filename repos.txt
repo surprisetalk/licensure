@@ -15715,3 +15715,15 @@ someengineering/fixinventory
 davidshimjs/qrcodejs
 cloudflare/pingora
 PrincessAkira/road-to-yuzu-without-switch
+google/mozc-devices
+instill-ai/instill-core
+timeplus-io/proton
+webgpu/webgpu-samples
+pamoroso/free-python-books
+sahilm/fuzzy
+hitsz-ids/SQLAgent
+microsoft/clrmd
+plfa/plfa.github.io
+JoeyDeVries/LearnOpenGL
+php-fig/fig-standards
+burhanrashid52/PhotoEditor
