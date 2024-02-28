@@ -15792,3 +15792,11 @@ ankane/chartkick
 princeton-vl/infinigen
 whoozle/android-file-transfer-linux
 java-diff-utils/java-diff-utils
+reorg/pg_repack
+yegor256/tacit
+mrzachnugent/react-native-reusables
+cask/cask
+greggman/twgl.js
+creack/pty
+topclaudy/compoships
+gskinnerTeam/flutter_vignettes
