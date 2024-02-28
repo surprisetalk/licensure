@@ -15762,3 +15762,15 @@ microsoft/debug-adapter-protocol
 Pomax/BezierInfo-2
 vladimiry/ElectronMail
 swift-server/swift-aws-lambda-runtime
+blacksmithgu/obsidian-dataview
+reaviz/reaflow
+duerrsimon/bioicons
+lsegal/yard
+Alir3z4/html2text
+ueberauth/ueberauth
+jitsi/jitsi-meet-electron
+projectfluent/fluent
+collectiveidea/awesome_nested_set
+john-kurkowski/tldextract
+icyguider/Shhhloader
+GreyDGL/PentestGPT
