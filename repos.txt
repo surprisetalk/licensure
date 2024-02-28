@@ -15682,3 +15682,10 @@ bibendi/dip
 Boris-code/feapder
 troyzhxu/bean-searcher
 cjolowicz/cookiecutter-hypermodern-python
+powerline/powerline
+EmbraceAGI/LangGPT
+CoderMJLee/MJRefresh
+ntfstool/ntfstool
+sindresorhus/pure
+alibaba/DataX
+Totoro97/NeuS
