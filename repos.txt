@@ -15656,3 +15656,15 @@ ikatyang/emoji-cheat-sheet
 lionsoul2014/ip2region
 veandco/go-sdl2
 microsoft/LMOps
+amusi/CVPR2024-Papers-with-Code
+guilhermerodz/input-otp
+robjhyndman/forecast
+gilbarbara/react-inlinesvg
+webdataset/webdataset
+ardalis/SmartEnum
+P3TERX/Aria2-Pro-Docker
+future-architect/cheetah-grid
+P3TERX/aria2.conf
+XueFuzhao/OpenMoE
+LearnOpenGL-CN/LearnOpenGL-CN
+ohmybash/oh-my-bash
