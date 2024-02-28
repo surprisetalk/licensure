@@ -15668,3 +15668,17 @@ P3TERX/aria2.conf
 XueFuzhao/OpenMoE
 LearnOpenGL-CN/LearnOpenGL-CN
 ohmybash/oh-my-bash
+dockur/windows
+suragnair/alpha-zero-general
+retspen/webvirtcloud
+bombela/backward-cpp
+yuru7/udev-gothic
+di-sukharev/opencommit
+ThingPulse/esp8266-oled-ssd1306
+daliansky/XiaoMi-Pro-Hackintosh
+OpenXcom/OpenXcom
+GoSecure/pyrdp
+bibendi/dip
+Boris-code/feapder
+troyzhxu/bean-searcher
+cjolowicz/cookiecutter-hypermodern-python
