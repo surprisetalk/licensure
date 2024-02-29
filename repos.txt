@@ -15812,3 +15812,7 @@ drupal-composer/drupal-project
 Yooooomi/your_spotify
 google/json_serializable.dart
 skorokithakis/shortuuid
+clj-python/libpython-clj
+cweijan/vscode-database-client
+codyogden/killedbygoogle
+photopea/photopea
